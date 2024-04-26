@@ -1,10 +1,16 @@
 # Demo-Job_Automation-Freelancer
 Video showing the automation I made as a Freelancer for a business
 
+
+
+
 # Video Link:
 https://youtu.be/CBtS2Uf8l5U?si=6DoGJvcB6GHtFjN3
 
-### Linkedin Post
+
+
+
+# Linkedin Post
 
 https://www.linkedin.com/posts/matiasenrigue_from-days-to-minutes-how-to-automate-activity-7188964461867634688-JgQb?utm_source=share&utm_medium=member_desktop
 
